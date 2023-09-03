@@ -33,7 +33,7 @@ have python2 or python3 installed on them.
   $ pip3 install ansible --user
 
 ```
-**Script to add user, password and enable password authentication**
+**Script to add user, password and enable password authentication in the remote nodes**
 
 ```
 #!/bin/bash
